@@ -1,0 +1,6 @@
+[ 2023-09-20 20:28:17,933 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-20 20:28:17,950 ] 187 werkzeug - INFO -  * Debugger PIN: 845-496-037
+[ 2023-09-20 20:28:18,221 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-20 20:28:18,232 ] 187 werkzeug - INFO -  * Debugger PIN: 845-496-037
+[ 2023-09-20 20:28:21,685 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\Shruti Shravani\\Desktop\\Housing Price\\src\\prediction_pipeline.py', reloading
+[ 2023-09-20 20:28:21,729 ] 187 werkzeug - INFO -  * Detected change in 'c:\\users\\shruti shravani\\desktop\\housing price\\src\\prediction_pipeline.py', reloading

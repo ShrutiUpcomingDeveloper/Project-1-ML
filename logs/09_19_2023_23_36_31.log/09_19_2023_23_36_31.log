@@ -1,0 +1,3 @@
+[ 2023-09-19 23:36:32,460 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-19 23:36:32,466 ] 187 werkzeug - INFO -  * Debugger PIN: 845-496-037
+[ 2023-09-19 23:36:34,902 ] 187 werkzeug - INFO -  * Detected change in 'c:\\users\\shruti shravani\\desktop\\housing price\\app.py', reloading
